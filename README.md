@@ -1,7 +1,4 @@
-# ParallelCFD
-Parallelized Fortran CFD code written in FORTRAN
-
-# Parallelized CFD
+# Parallelized CFD code in Fortran
 
 There are 2 files in this repository.
 
