@@ -3,7 +3,7 @@ Parallelized Fortran CFD code written in FORTRAN
 
 # Parallelized CFD
 
-We have 2 files in this repository.
+There are 2 files in this repository.
 
 > [Paralleizing in modern computer architectures][1].
 
