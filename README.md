@@ -11,9 +11,9 @@ We have 2 files in this repository.
 
 
 
-[1]:/Parallelization
+[1]:/Parallelization.md
 
-[2]:/Installation
+[2]:/InstallationOPENMPI.md
 
 
 
