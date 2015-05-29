@@ -1,16 +1,20 @@
 # Parallelized CFD code in Fortran
 
-There are 2 files in this repository.
+There are 3 files and 2 folder in this repository.
 
 > [Paralleizing in modern computer architectures][1].
 
 > [Installation of OPEN MPI][2].
 
+> [Parallel Algorithms]
 
+> [Comparison of sequential and parallel programs]
 
 [1]:/Parallelization.md
 
 [2]:/InstallationOPENMPI.md
 
+[3]:/Parallel Algorithms
 
+[4]:/Comparison
 
