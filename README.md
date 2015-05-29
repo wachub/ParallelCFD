@@ -14,7 +14,7 @@ There are 3 files and 2 folder in this repository.
 
 [2]:/InstallationOPENMPI.md
 
-[3]:/Parallel Algorithms
+[3]:/ParallelAlgorithms
 
 [4]:/Comparison
 
