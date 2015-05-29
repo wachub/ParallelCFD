@@ -6,9 +6,9 @@ There are 3 files and 2 folder in this repository.
 
 > [Installation of OPEN MPI][2].
 
-> [Parallel Algorithms]
+> [Parallel Algorithms][3]
 
-> [Comparison of sequential and parallel programs]
+> [Comparison of sequential and parallel programs][4]
 
 [1]:/Parallelization.md
 
