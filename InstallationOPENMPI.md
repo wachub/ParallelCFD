@@ -2,6 +2,8 @@
 
 > This document covers only the basic details of installation in the Linux environment.
 
+Follow the instructions of [this document](http://www.itp.phys.ethz.ch/education/hs12/programming_techniques/openmpi.pdf) very carefully.
+
 Follow the procedures mentioned in the [1. How do I build Open MPI?](https://www.open-mpi.org/faq/?category=building) question with a slight modification.
 
 
