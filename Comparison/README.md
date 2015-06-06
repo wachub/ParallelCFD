@@ -1,6 +1,6 @@
-This program compares the performance gains provided by a few parallel algorithms compared with their sequential ones.
+This program compares the performance gains provided by a few parallel algorithms compared with their sequential ones. The shell script for the comparison is in the compare.sh file. You can also compile the programs individually and compare performance.
 
-> make 
+> sh compare.sh
 
 to run the program.
 
